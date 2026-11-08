@@ -5,6 +5,7 @@
   "schema": "deliverables-bundle/v1",
   "items": {
     "Willow Journal": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Willow Journal\n\nDeliverable maintained by Emberworks.\n\n- Category: spec\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Willow Journal\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"403af8ee56b2e8f9\"\n}"
@@ -12,6 +13,7 @@
       "category": "spec"
     },
     "Ember Update": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Ember Update\n\nDeliverable maintained by Emberworks.\n\n- Category: deck\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Ember Update\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"3b3091c5190dfaa1\"\n}"
@@ -19,6 +21,7 @@
       "category": "deck"
     },
     "Evergreen Quarterly": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Evergreen Quarterly\n\nDeliverable maintained by Emberworks.\n\n- Category: spec\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Evergreen Quarterly\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"cc3aa29f0c7ebce2\"\n}"
@@ -26,6 +29,7 @@
       "category": "spec"
     },
     "Gilded Envelope": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Gilded Envelope\n\nDeliverable maintained by Emberworks.\n\n- Category: catalog\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Gilded Envelope\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"1330cf229aa6dc4a\"\n}"
@@ -33,6 +37,7 @@
       "category": "catalog"
     },
     "Marble Jigsaw": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Marble Jigsaw\n\nDeliverable maintained by Emberworks.\n\n- Category: report\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Marble Jigsaw\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"3e4469c6ae7dcaf1\"\n}"
@@ -40,6 +45,7 @@
       "category": "report"
     },
     "Fabled Brief": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Fabled Brief\n\nDeliverable maintained by Emberworks.\n\n- Category: dataset\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Fabled Brief\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"a5f6d9290207f94c\"\n}"
@@ -47,6 +53,7 @@
       "category": "dataset"
     },
     "Brisk Catalog": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Brisk Catalog\n\nDeliverable maintained by Emberworks.\n\n- Category: dataset\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Brisk Catalog\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"9a33d61da91d761d\"\n}"
@@ -54,6 +61,7 @@
       "category": "dataset"
     },
     "Painted Orbit": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Painted Orbit\n\nDeliverable maintained by Emberworks.\n\n- Category: deck\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Painted Orbit\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"06f4a58bb8378d89\"\n}"
@@ -61,6 +69,7 @@
       "category": "deck"
     },
     "Umber Compendium": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Umber Compendium\n\nDeliverable maintained by Emberworks.\n\n- Category: catalog\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Umber Compendium\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"b1f122e3a52a3e22\"\n}"
@@ -68,6 +77,7 @@
       "category": "catalog"
     },
     "Harbor Gazette": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Harbor Gazette\n\nDeliverable maintained by Emberworks.\n\n- Category: brief\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Harbor Gazette\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"d7531263501414d7\"\n}"
@@ -75,6 +85,7 @@
       "category": "brief"
     },
     "Halcyon Chronicle": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Halcyon Chronicle\n\nDeliverable maintained by Emberworks.\n\n- Category: brief\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Halcyon Chronicle\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"a823e9994b08ab66\"\n}"
@@ -82,6 +93,7 @@
       "category": "brief"
     },
     "Sable Portfolio": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Sable Portfolio\n\nDeliverable maintained by Emberworks.\n\n- Category: brief\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Sable Portfolio\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"cf68fa992ad722ca\"\n}"
@@ -89,6 +101,7 @@
       "category": "brief"
     },
     "Jade Portfolio": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Jade Portfolio\n\nDeliverable maintained by Emberworks.\n\n- Category: catalog\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Jade Portfolio\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"ca98530051da6f24\"\n}"
@@ -96,6 +109,7 @@
       "category": "catalog"
     },
     "Opaline Workbook": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Opaline Workbook\n\nDeliverable maintained by Emberworks.\n\n- Category: brief\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Opaline Workbook\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"1dca329b93ae8ff7\"\n}"
@@ -103,6 +117,7 @@
       "category": "brief"
     },
     "Granite Survey": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Granite Survey\n\nDeliverable maintained by Emberworks.\n\n- Category: catalog\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Granite Survey\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"3ceea9b5293f49d6\"\n}"
@@ -110,6 +125,7 @@
       "category": "catalog"
     },
     "Juniper Vault": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Juniper Vault\n\nDeliverable maintained by Emberworks.\n\n- Category: catalog\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Juniper Vault\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"1c6779e95b9023c6\"\n}"
@@ -117,6 +133,7 @@
       "category": "catalog"
     },
     "Mossy Outline": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Mossy Outline\n\nDeliverable maintained by Emberworks.\n\n- Category: archive\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Mossy Outline\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"fba1cc26f109d8eb\"\n}"
@@ -124,6 +141,7 @@
       "category": "archive"
     },
     "Yonder Ledger": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Yonder Ledger\n\nDeliverable maintained by Emberworks.\n\n- Category: model\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Yonder Ledger\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"b50cced109b319c8\"\n}"
@@ -131,6 +149,7 @@
       "category": "model"
     },
     "Brisk Ledger": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Brisk Ledger\n\nDeliverable maintained by Emberworks.\n\n- Category: dataset\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Brisk Ledger\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"1889cd6a5293a2f6\"\n}"
@@ -138,6 +157,7 @@
       "category": "dataset"
     },
     "Gilded Glossary": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Gilded Glossary\n\nDeliverable maintained by Emberworks.\n\n- Category: deck\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Gilded Glossary\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"fb3cc5e5bd5a12b4\"\n}"
@@ -145,6 +165,7 @@
       "category": "deck"
     },
     "Ember Inventory": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Ember Inventory\n\nDeliverable maintained by Emberworks.\n\n- Category: spec\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Ember Inventory\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"86a2fd12772e7120\"\n}"
@@ -152,6 +173,7 @@
       "category": "spec"
     },
     "Umber Digest": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Umber Digest\n\nDeliverable maintained by Emberworks.\n\n- Category: dataset\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Umber Digest\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"0ca5161ba86dae27\"\n}"
@@ -159,6 +181,7 @@
       "category": "dataset"
     },
     "Mossy Inventory": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Mossy Inventory\n\nDeliverable maintained by Emberworks.\n\n- Category: dataset\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Mossy Inventory\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"e651c749e464308e\"\n}"
@@ -166,6 +189,7 @@
       "category": "dataset"
     },
     "Frosted Dossier": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Frosted Dossier\n\nDeliverable maintained by Emberworks.\n\n- Category: archive\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Frosted Dossier\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"bd5aa2081b236f62\"\n}"
@@ -173,6 +197,7 @@
       "category": "archive"
     },
     "Jade Handbook": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Jade Handbook\n\nDeliverable maintained by Emberworks.\n\n- Category: catalog\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Jade Handbook\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"e6b957f31b0095d2\"\n}"
@@ -180,6 +205,7 @@
       "category": "catalog"
     },
     "Tidal Portfolio": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Tidal Portfolio\n\nDeliverable maintained by Emberworks.\n\n- Category: spec\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Tidal Portfolio\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"91daf18593df10fb\"\n}"
@@ -187,6 +213,7 @@
       "category": "spec"
     },
     "Cobalt Dossier": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Cobalt Dossier\n\nDeliverable maintained by Emberworks.\n\n- Category: spec\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Cobalt Dossier\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"2d5937c5eedaea43\"\n}"
@@ -194,6 +221,7 @@
       "category": "spec"
     },
     "Xenial Digest": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Xenial Digest\n\nDeliverable maintained by Emberworks.\n\n- Category: brief\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Xenial Digest\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"ecbb00ac59d40cd7\"\n}"
@@ -201,6 +229,7 @@
       "category": "brief"
     },
     "Willow Folio": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Willow Folio\n\nDeliverable maintained by Emberworks.\n\n- Category: model\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Willow Folio\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"ab443ab1fbca26aa\"\n}"
@@ -208,6 +237,7 @@
       "category": "model"
     },
     "Radiant Handbook": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Radiant Handbook\n\nDeliverable maintained by Emberworks.\n\n- Category: catalog\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Radiant Handbook\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"7db81574e89ccc70\"\n}"
@@ -215,6 +245,7 @@
       "category": "catalog"
     },
     "Nimbus Index": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Nimbus Index\n\nDeliverable maintained by Emberworks.\n\n- Category: spec\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Nimbus Index\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"304b12c286374fb4\"\n}"
@@ -222,6 +253,7 @@
       "category": "spec"
     },
     "Lilac Outline": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Lilac Outline\n\nDeliverable maintained by Emberworks.\n\n- Category: archive\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Lilac Outline\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"9138d3173e358b34\"\n}"
@@ -229,6 +261,7 @@
       "category": "archive"
     },
     "Painted Workbook": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Painted Workbook\n\nDeliverable maintained by Emberworks.\n\n- Category: report\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Painted Workbook\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"44e33752eed40a37\"\n}"
@@ -236,6 +269,7 @@
       "category": "report"
     },
     "Lilac Journal": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Lilac Journal\n\nDeliverable maintained by Emberworks.\n\n- Category: dataset\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Lilac Journal\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"fed5a0213e2ddf8d\"\n}"
@@ -243,6 +277,7 @@
       "category": "dataset"
     },
     "Frosted Yearbook": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Frosted Yearbook\n\nDeliverable maintained by Emberworks.\n\n- Category: brief\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Frosted Yearbook\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"bfb76f0c4a5fb0df\"\n}"
@@ -250,6 +285,7 @@
       "category": "brief"
     },
     "Willow Atlas": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Willow Atlas\n\nDeliverable maintained by Emberworks.\n\n- Category: report\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Willow Atlas\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"74cea3e279ef66d1\"\n}"
@@ -257,6 +293,7 @@
       "category": "report"
     },
     "Fabled Manual": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Fabled Manual\n\nDeliverable maintained by Emberworks.\n\n- Category: spec\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Fabled Manual\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"9563d174cde11e4f\"\n}"
@@ -264,6 +301,7 @@
       "category": "spec"
     },
     "Nimbus Atlas": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Nimbus Atlas\n\nDeliverable maintained by Emberworks.\n\n- Category: spec\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Nimbus Atlas\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"7c3292d7a212545b\"\n}"
@@ -271,6 +309,7 @@
       "category": "spec"
     },
     "Gilded Logbook": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Gilded Logbook\n\nDeliverable maintained by Emberworks.\n\n- Category: catalog\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Gilded Logbook\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"ae488f2bcd69d6b9\"\n}"
@@ -278,6 +317,7 @@
       "category": "catalog"
     },
     "Evergreen Blueprint": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Evergreen Blueprint\n\nDeliverable maintained by Emberworks.\n\n- Category: catalog\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Evergreen Blueprint\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"7647d1e5acc4bd95\"\n}"
@@ -285,6 +325,7 @@
       "category": "catalog"
     },
     "Quiet Digest": {
+      "owner": "Emberworks",
       "files": {
         "README.md": "# Quiet Digest\n\nDeliverable maintained by Emberworks.\n\n- Category: dataset\n- Version: 1.0\n",
         "item.json": "{\n  \"name\": \"Quiet Digest\",\n  \"owner\": \"Emberworks\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"656b4c890a6abe28\"\n}"
